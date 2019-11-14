@@ -1,0 +1,10 @@
+table,td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+
+.subr{
+    font-weight: bold;
+    text-decoration: underline;
+}
